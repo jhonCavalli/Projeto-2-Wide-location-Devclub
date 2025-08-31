@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.menu-principal {
+    margin: 24px 34px 84px 34px;
+
+}
+
+.links {
+    color: #17233D;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 23px 32px 0 32px;
+}
+
+.btn-header {
+    background-color: #4CB538;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    cursor: pointer;
+    font-size: 20px;
+    position: absolute;
+    top: 24px;
+    right: 84px;
+}
