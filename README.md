@@ -37,4 +37,4 @@ O objetivo é praticar os fundamentos de marcação e estilização, criando uma
 ## 🛠️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/jhonCavalli/Projeto-2-Wide-location-Devclub
