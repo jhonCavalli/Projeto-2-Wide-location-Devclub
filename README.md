@@ -21,6 +21,8 @@ O objetivo é praticar os fundamentos de marcação e estilização, criando uma
 ---
 
 ## 📸 Demonstração
+
+🔗 [Acesse o site aqui](https://jhoncavalli.github.io/Projeto-2-Wide-location-Devclub/)
 ![Preview do site](img/Captura%20de%20tela%202025-09-03%20195436.png)
 
 ---
