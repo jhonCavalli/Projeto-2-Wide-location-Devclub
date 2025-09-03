@@ -20,6 +20,7 @@
 .links:hover {
     color: #4CB538;
     font-weight: 600;
+    text-decoration: underline;
 }
 
 .btn-header {
@@ -80,4 +81,9 @@ p {
     color: #4CB538;
     font-size: 20px;
     font-weight: 500;
+}
+
+.link-more:hover {
+    text-decoration: underline;
+    font-weight: 600;
 }
