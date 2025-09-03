@@ -29,3 +29,45 @@
     top: 24px;
     right: 84px;
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    margin: 40px 35px 80px;
+
+}
+
+.textos {
+    max-width: 445px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    
+}
+
+img {
+    width: 585px;
+    height: 500px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #161A49;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+p {
+    font-size: 20px;
+    color: #4B505A;
+    line-height: 30px;
+}
+
+.link-more {
+    text-decoration: none;
+    color: #4CB538;
+    font-size: 20px;
+    font-weight: 500;
+}
